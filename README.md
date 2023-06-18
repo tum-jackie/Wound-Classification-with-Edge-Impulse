@@ -1,1 +1,1 @@
-# Wound--Classification
+# Wound Classification
